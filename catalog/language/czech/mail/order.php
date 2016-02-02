@@ -1,0 +1,35 @@
+<?php
+// Text
+$_['text_new_subject']          = '%s - Objednávka %s';
+$_['text_new_greeting']         = 'Děkujeme za váš zájem o naše produkty %s. Vaše objednávka byla přijata a po přijetí platby bude zpracována.';
+$_['text_new_received']         = 'Obdrželi jste objednávku.';
+$_['text_new_link']             = 'Pro zobrazení vaší objednávky klikněte na odkaz níže:';
+$_['text_new_order_detail']     = 'Detaily objednávky';
+$_['text_new_instruction']      = 'Instrukce';
+$_['text_new_order_id']         = 'ID objednávky:';
+$_['text_new_date_added']       = 'Datum přidání:';
+$_['text_new_order_status']     = 'Stav objednávky:';
+$_['text_new_payment_method']   = 'Způsob platby:';
+$_['text_new_shipping_method']  = 'Způsob dodání:';
+$_['text_new_email']  			= 'E-mail:';
+$_['text_new_telephone']  		= 'Telefonní číslo:';
+$_['text_new_ip']  				= 'IP Adresa:';
+$_['text_new_payment_address']  = 'Platební adresa';
+$_['text_new_shipping_address'] = 'Dodací adresa';
+$_['text_new_products']         = 'Produkty';
+$_['text_new_product']          = 'Produkt';
+$_['text_new_model']            = 'Model';
+$_['text_new_quantity']         = 'Množství';
+$_['text_new_price']            = 'Cena';
+$_['text_new_order_total']      = 'Součty objednávky';
+$_['text_new_total']            = 'Celkem';
+$_['text_new_download']         = 'Jakmile bude přijata vaše platba můžete kliknout na odkaz níže pro stažení vašeho produktu:';
+$_['text_new_comment']          = 'Váš komentář k objednávce je:';
+$_['text_new_footer']           = 'Pokud máte jakékoliv otázky odpovězte na tento email.';
+$_['text_update_subject']       = '%s - Aktualizace objednávky %s';
+$_['text_update_order']         = 'ID objednávky:';
+$_['text_update_date_added']    = 'Datum objednávky:';
+$_['text_update_order_status']  = 'Stav vaší objednávky byl změněn na:';
+$_['text_update_comment']       = 'Váš komentář k objednávce je:';
+$_['text_update_link']          = 'Pro zobrazení vaší objednávky klikněte na odkaz níže:';
+$_['text_update_footer']        = 'Pokud máte jakékoliv otázky odpovězte na tento email.';
